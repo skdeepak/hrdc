@@ -4,8 +4,11 @@ __pycache__
 myvenv
 db.sqlite3
 .DS_Store
-settings.py
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+
+>>>>>>> dd84cf1010aabc1657de98948069b42408819a88
 =======
 
 >>>>>>> dd84cf1010aabc1657de98948069b42408819a88
